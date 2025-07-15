@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Pyhon and Web Development<br>🌱 I’m currently learning Python<br>
+🔭 I’m currently working on Python and Web Development<br>🌱 I’m currently learning Python<br>
 
 
 ## 🌐 Socials:
